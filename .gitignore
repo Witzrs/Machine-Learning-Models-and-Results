@@ -1,2 +1,4 @@
 TensorFlow/Images2Classify/*
 TensorFlow/Results/*
+*.wav
+*.png
